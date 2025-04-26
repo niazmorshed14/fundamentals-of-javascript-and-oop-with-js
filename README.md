@@ -11,7 +11,7 @@
 - **Classes and Objects**
 - **Inheritance**
 - **Static Methods and Properties**
-- 
+  
 Each file includes:
 - 📖 Easy-to-understand explanations
 - 🧩 Real code examples
