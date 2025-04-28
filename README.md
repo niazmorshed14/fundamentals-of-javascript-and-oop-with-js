@@ -15,6 +15,9 @@
 - **Static Methods and Properties**
 - **Promises**
 - **Promise Chaining**
+- **Promise All**
+- **Async Await Concept**
+- **Fetching Data Through API Call**
 - **Synchronous vs Asynchronous JavaScript**
 
    
