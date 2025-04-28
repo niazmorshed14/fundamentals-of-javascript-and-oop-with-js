@@ -19,7 +19,9 @@
 - **Async Await Concept**
 - **Fetching Data Through API Call**
 - **Synchronous vs Asynchronous JavaScript**
-
+- **Error Handling**
+- **Important String Methods**
+- **User Input in NodeJS**
    
 Each file includes:
 - 📖 Easy-to-understand explanations
