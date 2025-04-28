@@ -22,7 +22,9 @@
 - **Error Handling**
 - **Important String Methods**
 - **User Input in NodeJS**
-   
+- **Destructuring**
+- **JS Template Literals**
+     
 Each file includes:
 - 📖 Easy-to-understand explanations
 - 🧩 Real code examples
